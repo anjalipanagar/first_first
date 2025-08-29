@@ -1,9 +1,9 @@
 import random
-MAX_LINES = 3
+MAX_LINES = 5
 MAX_BET = 100
 MIN_BET = 1
-ROWS = 3
-COLS = 3
+ROWS = 5
+COLS = 5
 symbol_count = {
     "A": 2,
     "B": 4,
